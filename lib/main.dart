@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
             ),
           ],
           child: MaterialApp(
-            title: 'Flutter Demo',
+            title: 'Myuzic',
             theme: AppTheme.appTheme,
             home: AudioServiceWidget(child: MainScreen()),
           ),
